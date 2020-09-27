@@ -6,4 +6,5 @@ module.exports = merge(base, {
   devServer: {
     port: 9000,
   },
+  devtool: "inline-source-map",
 });
