@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import { hot } from "react-hot-loader";
+import React, { useState } from 'react';
+import { hot } from 'react-hot-loader';
 
 const App = () => {
   const [count, setCount] = useState(0);
